@@ -702,3 +702,6 @@ a{
 .profile-footer .copyright-msg{
     justify-content: flex-start;
 }
+#showMoreLink{
+    display: none;
+}
